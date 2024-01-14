@@ -23,3 +23,7 @@ This is a simple web application that allows users to search for movies and view
 4. Make sure the backend is running
 5. Run `npm run dev` to start the frontend on port 3000
 6. Navigate to `localhost:3000` in your browser to view the app
+
+## Notes
+* I didn't quite get the movie detailed view working when you click on the view details button
+* I have included a couple of unit tests to test my mapping logic between APIs for the webservice
